@@ -58,12 +58,26 @@ Saya percaya bahwa teknologi adalah solusi untuk menciptakan inovasi yang membaw
 ### 🗄️ Database
 - **MySQL** (Relational Database)
 
+### 🌐 Web dev (beginer)
+- **HTML** (header)
+- **CSS** (Styleing)
+- **Javascript** (Realistic)
+- **Node JS**
+- **React JS** (framework JS)
+- ** Flask ** (framework Python)
+- ** PHP **
+- ** Mysql** (DBMS)
+- ** Bootstrap ** (Framework CSS) 
+
 ### 🛠️ Tools & Platforms
 - **Version Control**: Git & GitHub
 - **Design**: Adobe XD
 - **Development**: VS Code
 
----
+### 🛠️ Operating system
+- **Windows**
+- **linux**
+- 
 
 ## 📂 Featured Projects
 
