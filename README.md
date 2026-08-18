@@ -73,6 +73,7 @@ Saya percaya bahwa teknologi adalah solusi untuk menciptakan inovasi yang membaw
 - **Version Control**: Git & GitHub
 - **Design**: Adobe XD
 - **Development**: VS Code
+- **AI tools**:Claude, Emergents.AI, cursor ai
 
 ### 🛠️ Operating system
 - **Windows**
